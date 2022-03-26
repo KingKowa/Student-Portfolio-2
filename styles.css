@@ -25,6 +25,11 @@ ul li {
   row-gap: 88px;
 }
 
+.works {
+    display: grid;
+    row-gap: 88px;
+}
+
 .first-wrapper {
   background-color: #fff;
   border-radius: 2%;
@@ -214,7 +219,7 @@ ul li {
   margin: 0 24px;
 }
 
-.about-me h1 {
+.about-me h2 {
   margin-top: 114px;
   margin-left: 24px;
   margin-right: 24px;
@@ -242,7 +247,7 @@ ul li {
 
 .social-icons ul li {
   display: inline-block;
-  padding-right: 20px;
+  margin-left: 30px;
 }
 
 .about-me h3 {

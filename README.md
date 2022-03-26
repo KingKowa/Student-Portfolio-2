@@ -1,6 +1,13 @@
 # Project Name
 
-> Student-Portfolio
+> Student-Portfolio-2
+
+1.Selected a figma template to serve as a guide for the design of the project.
+2.Created the HTML Boiler template for the project.
+3.Added a CSS file to apply styling to the HTML document.
+4.Added an images folder to the project.
+5.Committed all changes to my local repository
+6.Pushed all changes from my local repository to my remote repository.
 
 
 ## Built With
