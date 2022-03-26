@@ -211,6 +211,7 @@ ul li {
   min-height: 100vh;
   background-repeat: no-repeat;
   font-family: Poppins, sans-serif;
+  margin: 0 24px;
 }
 
 .about-me h1 {
@@ -252,14 +253,10 @@ ul li {
   margin-left: 24px;
 }
 
-.about-me {
-  margin: 0 24px;
-}
-
 .btn-5 {
   border-color: #396df2;
   border-radius: 8px;
-  background-color: #ffffff;
+  background-color: #fff;
   color: #396df2;
   font-size: 17px;
   padding-left: 12px;
