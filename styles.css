@@ -27,8 +27,8 @@ ul li {
 }
 
 .works {
-    display: grid;
-    row-gap: 88px;
+  display: grid;
+  row-gap: 88px;
 }
 
 .first-wrapper {
