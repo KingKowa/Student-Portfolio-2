@@ -11,7 +11,7 @@
   background-repeat: no-repeat;
   min-height: 100vh;
 }
-  
+
 .wrap-container {
   margin: 0 24px;
 }
@@ -72,11 +72,11 @@ body {
   min-height: 100vh;
 }
 
-h4 {
+.h4 {
   color: #344563;
 }
 
-ul li {
+.ul li {
   color: #7a869a;
 }
 
