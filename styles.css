@@ -59,6 +59,7 @@
 .headline ul li {
   display: inline-block;
   padding-right: 20px;
+  color: #7a869a;
 }
 
 body {
@@ -68,10 +69,6 @@ body {
 
 .h4 {
   color: #344563;
-}
-
-.headline ul li {
-  color: #7a869a;
 }
 
 .main-wrapper {
