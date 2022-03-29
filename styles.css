@@ -1,4 +1,4 @@
- 
+
 * {
   margin: 0;
   padding: 0;
@@ -15,17 +15,17 @@
 .wrap-container {
   margin: 0 24px;
 }
-  
+
 .toolbar {
   display: flex;
   justify-content: space-between;
   margin-top: 58px;
 }
-  
+
 .headline a {
   margin-top: 58px;
 }
-  
+
 .headline h1 {
   font-size: 40px;
   font-style: normal;
@@ -35,27 +35,27 @@
   margin-bottom: 12px;
   color: #172b4d;
 }
-  
+
 .info {
   font-weight: 400;
   font-style: normal;
   color: #344563;
 }
-  
+
 .headline h3 {
   margin-top: 12px;
   margin-bottom: 12px;
   color: #7f8cff;
   font-weight: 500;
 }
-  
+
 .headline ul {
   list-style: none;
   display: flex;
   justify-content: flex-start;
   flex-direction: row;
 }
-  
+
 .headline ul li {
   display: inline-block;
   padding-right: 20px;
@@ -109,7 +109,7 @@ body {
 }
 
 .list-items {
-  display: flex;
+  display: flex; 
   justify-content: space-around;
   font-size: 13px;
   margin-top: 20px;
@@ -140,6 +140,7 @@ body {
 }
 
 .btn-1 {
+  display: block;
   border: none;
   border-radius: 8px;
   font-style: normal;
@@ -152,6 +153,7 @@ body {
 }
 
 .btn-2 {
+  display: block;
   border: none;
   border-radius: 8px;
   padding-top: 4px;
