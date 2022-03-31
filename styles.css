@@ -363,11 +363,6 @@ body {
   color: #fff;
 }
 
-/*p {
-  color: #fff;
-  font-size: 20px;
-}*/
-
 .name {
   margin-left: 24px;
   margin-right: 24px;
@@ -419,13 +414,9 @@ body {
   padding-bottom: 12px;
   padding-left: 16px;
   border-radius: 8px;
-}
-
-.form-btn {
-  font-size: 17px;
-  border: none;
-  background-color: #fff;
   color: #6070ff;
+  border: none;
+  font-size: 17px;
 }
 
 .name-text {
