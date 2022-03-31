@@ -359,12 +359,14 @@ body {
   margin-left: 24px;
   margin-right: 24px;
   text-align: center;
+  font-size: 20px;
+  color: #fff;
 }
 
-p {
+/*p {
   color: #fff;
   font-size: 20px;
-}
+}*/
 
 .name {
   margin-left: 24px;
