@@ -10,6 +10,7 @@
   background-image: url("images/header-shapesmobile@2x.svg");
   background-repeat: no-repeat;
   min-height: 100vh;
+  width: 375px;
 }
 
 .wrap-container {
@@ -140,7 +141,6 @@ body {
 }
 
 .btn-1 {
-  display: block;
   border: none;
   border-radius: 8px;
   font-style: normal;
@@ -153,7 +153,6 @@ body {
 }
 
 .btn-2 {
-  display: block;
   border: none;
   border-radius: 8px;
   padding-top: 4px;
@@ -272,7 +271,8 @@ body {
   min-height: 100vh;
   background-repeat: no-repeat;
   font-family: Poppins, sans-serif;
-  margin: 0 24px;
+  width: 375px;
+  height: 1125px;
 }
 
 .about-me h2 {
@@ -335,4 +335,121 @@ body {
 
 .skills h4 {
   font-size: 20px;
+}
+
+/* Contact Form */
+
+.contact-forms {
+  font-family: Poppins, sans-serif;
+  background-image: url("images/Contact-me.svg");
+  background-repeat: no-repeat;
+  height: 779px;
+  width: 375px;
+  padding-top: 103px;
+}
+
+.contact {
+  text-align: center;
+}
+
+.form-heading {
+  color: #fff;
+  font-style: bold;
+  font-size: 40px;
+}
+
+.form-paragraph {
+  margin-top: 12px;
+  margin-left: 24px;
+  margin-right: 24px;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+}
+
+.name {
+  margin-left: 24px;
+  margin-right: 24px;
+  margin-top: 50px;
+  width: 327px;
+  height: 48px;
+  padding-left: 16px;
+  padding-right: 38px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+.email {
+  margin-top: 20px;
+  margin-left: 24px;
+  width: 327px;
+  height: 48px;
+  padding-left: 16px;
+  padding-right: 38px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #fff;
+  border-radius: 8px;
+  border: none;
+}
+
+.text-field {
+  margin-left: 24px;
+  margin-top: 18px;
+  width: 327px;
+  height: 170px;
+  background-color: #fff;
+  border-radius: 8px;
+  padding-left: 16px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 38px;
+}
+
+.form-btn {
+  background-color: #fff;
+  width: 140px;
+  height: 48px;
+  margin-left: 24px;
+  margin-top: 18px;
+  margin-bottom: 45px;
+  padding-top: 12px;
+  padding-right: 16px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  border-radius: 8px;
+  color: #6070ff;
+  border: none;
+  font-size: 17px;
+}
+
+.name-text {
+  border: none;
+}
+
+.email-field {
+  border: none;
+}
+
+.text-fld {
+  font-size: 15px;
+  border: none;
+  color: #b3bac5;
+  width: 273px;
+  height: 140px;
+}
+
+.form-btn-1 {
+  margin-top: 22px;
+  transition-duration: 0.5s;
+}
+
+.form-btn:hover {
+  background-color: #6070ff;
+}
+
+.form-btn:active {
+  background-color: #2230d2;
 }
