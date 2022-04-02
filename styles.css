@@ -272,6 +272,7 @@ body {
   background-repeat: no-repeat;
   font-family: Poppins, sans-serif;
   width: 375px;
+  height: 1125px;
 }
 
 .about-me h2 {
@@ -446,9 +447,9 @@ body {
 }
 
 .form-btn:hover {
-  background-color: lightskyblue;
+  background-color: #6070ff;
 }
 
 .form-btn:active {
-  background-color: lawngreen;
+  background-color: #2230d2;
 }
